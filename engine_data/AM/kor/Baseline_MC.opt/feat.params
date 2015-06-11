@@ -1,0 +1,12 @@
+-alpha 0.97
+-doublebw no
+-nfilt 40
+-ncep 13
+-lowerf 130
+-upperf 3700
+-nfft 512
+-wlen 0.0256
+-transform legacy
+-feat s2_4x
+-agc none
+-varnorm no

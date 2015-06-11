@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<voice-control-engine>
+        <name>Samsung voice control engine</name>
+        <id>C7AEDE1D-90F7-41ea-9AB4-FD99966D2654</id>
+        <languages>
+                <lang>en_US</lang>
+                <lang>ko_KR</lang>
+        </languages>
+        <non-fixed-support>true</non-fixed-support>
+</voice-control-engine>
