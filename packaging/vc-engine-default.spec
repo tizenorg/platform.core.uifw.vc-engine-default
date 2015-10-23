@@ -37,7 +37,7 @@ cp %{_builddir}/%{name}-%{version}/LICENSE %{buildroot}/usr/share/license/%{name
 %files
 %manifest vc-engine-default.manifest
 %defattr(-,root,root,-)
-/usr/lib/voice/vc/1.0/engine/lib*.so
-/usr/lib/voice/vc/1.0/engine-info/vc-default-info.xml
+%{_libdir}/voice/vc/1.0/engine/lib*.so
+%{_libdir}/voice/vc/1.0/engine-info/vc-default-info.xml
 /usr/share/voice/vc/engine_data/*
 /usr/share/license/%{name}
